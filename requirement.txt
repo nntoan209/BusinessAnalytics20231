@@ -1,0 +1,6 @@
+pandas 
+sklearn
+streamlit
+xgboost
+pyodbc
+statsmodels
