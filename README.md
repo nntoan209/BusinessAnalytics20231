@@ -81,4 +81,4 @@ Our project aims to answer the following questions:
 ## Power BI Dashboard
 
 **General Dashboard**
-![General Dashboard](images/dashboard.jpeg)
+![General Dashboard](images/dashboard.png)
